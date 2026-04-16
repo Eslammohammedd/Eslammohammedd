@@ -22,15 +22,15 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
 - 🧠 **Core Focus:** Deep Learning, Information Retrieval, and building robust ML architectures.
 - 👯 **Open to Collaborate:** On Open Source AI frameworks, Computer Vision, and NLP projects.
 - 📫 **Reach Me:** **eng.eslammohammedd@gmail.com**
-- ⚡ **Fun Fact:** I treat Machine Learning like lifting weights—consistency and the right algorithms (or form) build the strongest models! 🏋️‍♂️💻
+- ⚡ **Fun Fact:** They say "Data is the new oil," but raw oil is useless—I'm the engineer building the AI refineries to turn it into actionable intelligence! 🚀☕
 
 ---
 
 ### 🎯 AI Specialties & Focus
 
-| 👁️ Computer Vision (CV) | 🗣️ Natural Language Processing (NLP) | 🧠 Deep Learning (DL) |
-| :--- | :--- | :--- |
-| Image Processing, Object Detection, and building models that "see" and interpret visual data. | Text classification, Information Retrieval, and working with LLMs to understand human language. | Architecting and fine-tuning Neural Networks using PyTorch & TensorFlow. |
+| 👁️ Computer Vision (CV) | 🗣️ Natural Language Processing (NLP) | 🧠 Deep Learning (DL) | 📊 Data Science |
+| :--- | :--- | :--- | :--- |
+| Image Processing, Object Detection, and building models that "see" and interpret visual data. | Text classification, Information Retrieval, and working with LLMs to understand human language. | Architecting and fine-tuning Neural Networks using PyTorch & TensorFlow. | Extracting actionable insights, predictive modeling, and turning raw data into strategic decisions. |
 
 ---
 
