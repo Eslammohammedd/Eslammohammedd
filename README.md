@@ -85,7 +85,7 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslammohammedd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" width="50%" />
 </div>
-### 🐍 Activity Graph
+// 🐍 Activity Graph
 
 <div align="center">
   <picture>
@@ -94,7 +94,7 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-snake.svg">
   </picture>
 </div>
----
+
 
 ### 🤝 Let's Connect
 
