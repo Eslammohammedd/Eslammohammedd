@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00599C&height=250&section=header&text=Architecting%20Intelligence%20🧠&fontSize=55&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  
+  <br/>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Eslam!+%F0%9F%91%8B;Architecting+Intelligence+%F0%9F%A7%A0;AI+%26+Data+Scientist;CV+%26+NLP+Specialist;Data-Driven+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Eslam!+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Computer+Vision+%26+NLP+Specialist;Deep+Learning+Enthusiast;Cybersecurity+Advocate" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, passionate about building intelligent systems that solve real-world problems.
+Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, passionate about building intelligent systems that solve real-world problems. 
 
 - 🔭 **Currently Working On:** Developing AI-driven threat detection models for a **Smart SOC** project.
 - 🧠 **Core Focus:** Deep Learning, Information Retrieval, and building robust ML architectures.
@@ -24,13 +28,9 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
 
 ### 🎯 AI Specialties & Focus
 
-<div align="center">
-
 | 👁️ Computer Vision (CV) | 🗣️ Natural Language Processing (NLP) | 🧠 Deep Learning (DL) | 📊 Data Science |
 | :--- | :--- | :--- | :--- |
 | Image Processing, Object Detection, and building models that "see" and interpret visual data. | Text classification, Information Retrieval, and working with LLMs to understand human language. | Architecting and fine-tuning Neural Networks using PyTorch & TensorFlow. | Extracting actionable insights, predictive modeling, and turning raw data into strategic decisions. |
-
-</div>
 
 ---
 
@@ -67,7 +67,7 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
 
 ---
 
-### 📈 Advanced GitHub Statistics (Animated)
+### 📈 Advanced GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eslammohammedd&theme=react-dark&show_icons=true&bg_color=0D1117&hide_border=true" alt="Eslam's Activity Graph" />
@@ -80,6 +80,12 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslammohammedd&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslammohammedd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" width="50%" />
+</div>
+
 ---
 
 ### 🤝 Let's Connect
@@ -88,3 +94,7 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
   <a href="https://www.linkedin.com/in/eslam-mohammed-592167259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eng.eslammohammedd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00599C&height=100&section=footer" alt="Footer" />
+</div>
