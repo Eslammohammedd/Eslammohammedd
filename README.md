@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=AI%20Engineer%20in%20the%20Making%20🚀&fontSize=60&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:00ccff&height=250&section=header&text=Eslam%20Mohammed&fontSize=70&animation=fadeIn" alt="Header" />
 </div>
 
-<h1 align="center">Hi there, I'm Eslam! 🤖</h1>
-<h3 align="center">AI & Data Science Student at FCI-CU | Cybersecurity Enthusiast</h3>
+<h1 align="center">🚀 AI & Data Science Specialist | Cybersecurity Enthusiast</h1>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eslammohammedd&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" /></a>
@@ -13,55 +12,55 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Smart SOC (Security Operations Center)** using AI for threat detection.
-- 🌱 I’m deepening my knowledge in **Large Language Models (LLMs)** and **Deep Learning**.
-- 👯 I’m looking to collaborate on **Open Source AI Frameworks** and **Cybersecurity Intelligence projects**.
-- 💬 Ask me about **Machine Learning algorithms, Information Retrieval, or Computer Vision**.
-- 📫 How to reach me: **eng.eslammohammedd@gmail.com**
-- ⚡ Fun fact: **I believe that "Data is the new oil," but I'm the one building the refinery! ☕**
+- 🎓 **Academic:** AI & Data Science Student at **Faculty of Computers and Intelligence - Cairo University (FCI-CU)**.
+- 🛡️ **Cybersecurity:** Focused on **Smart SOC** development and ethical hacking.
+- 🤖 **AI Specializations:** Deep Learning (DL), Computer Vision (CV), Natural Language Processing (NLP), and Autonomous Agents.
+- 💡 **Goal:** Bridging the gap between Artificial Intelligence and Information Security.
+- 📫 **Contact:** [eng.eslammohammedd@gmail.com](mailto:eng.eslammohammedd@gmail.com)
 
 ---
 
-### 🛠️ AI & Tech Stack
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>AI & Data Science</strong></td>
+    <td align="center" width="33%"><strong>Cybersecurity</strong></td>
+    <td align="center" width="33%"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/NLP-FF9D00?style=flat&logo=huggingface&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Metasploit-EF3B21?style=flat" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" /> <br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" /> <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eslammohammedd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslammohammedd&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslammohammedd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
 
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eslam-mohammed-592167259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:eng.eslammohammedd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,70:003366,100:000000&height=100&section=footer" alt="Footer" />
 </div>
