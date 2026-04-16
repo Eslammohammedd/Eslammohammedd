@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20%F0%9F%91%8B&fontSize=80&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=AI%20Engineer%20in%20the%20Making%20🚀&fontSize=60&animation=fadeIn" alt="Header" />
 </div>
 
-<h1 align="center">Hi there, I'm a Passionate Developer! 💻</h1>
-<h3 align="center">Welcome to my GitHub Profile</h3>
+<h1 align="center">Hi there, I'm Eslam! 🤖</h1>
+<h3 align="center">AI & Data Science Student at FCI-CU | Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eslammohammedd&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" /></a>
@@ -13,26 +13,30 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **New Technologies**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Tech, Coding, and Design**
+- 🔭 I’m currently working on **Smart SOC (Security Operations Center)** using AI for threat detection.
+- 🌱 I’m deepening my knowledge in **Large Language Models (LLMs)** and **Deep Learning**.
+- 👯 I’m looking to collaborate on **Open Source AI Frameworks** and **Cybersecurity Intelligence projects**.
+- 💬 Ask me about **Machine Learning algorithms, Information Retrieval, or Computer Vision**.
 - 📫 How to reach me: **eng.eslammohammedd@gmail.com**
-- ⚡ Fun fact: **I love coding and coffee ☕**
+- ⚡ Fun fact: **I believe that "Data is the new oil," but I'm the one building the refinery! ☕**
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ AI & Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
