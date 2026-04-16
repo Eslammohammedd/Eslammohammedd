@@ -86,13 +86,13 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslammohammedd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" width="50%" />
 </div>
 
-### 🤖 AI Bot Activity
+
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-robot-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-robot.svg">
-    <img alt="AI robot collecting contribution data" src="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-robot.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-snake.svg">
   </picture>
 </div>
 
