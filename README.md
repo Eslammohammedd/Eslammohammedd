@@ -67,6 +67,7 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
 
 ---
 
+### 📈 Advanced GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eslammohammedd&theme=react-dark&show_icons=true&bg_color=0D1117&hide_border=true" alt="Eslam's Activity Graph" />
