@@ -1,5 +1,3 @@
- Conversation with Gemini
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00599C&height=250&section=header&text=Architecting%20Intelligence%20🧠&fontSize=55&fontColor=ffffff&animation=fadeIn" alt="Header" />
@@ -12,7 +10,7 @@
 
   <a href="https://git.io/typing-svg">
 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Eslam!+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Computer+Vision+%26+NLP+Specialist;Deep+Learning+Enthusiast;Cybersecurity+Advocate" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Eslam!+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Computer+Vision+%26+NLP+Specialist;Deep+Learning+Enthusiast;Cybersecurity+Advocate" alt="Typing SVG" />
 
   </a>
 
@@ -169,4 +167,3 @@ Welcome to my digital workspace! I am an AI & Data Science student at FCI-CU, pa
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00599C&height=100&section=footer" alt="Footer" />
 
 </div>
-
