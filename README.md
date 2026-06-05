@@ -81,7 +81,6 @@ Welcome to my digital workspace! I am an **AI & Data Science student** at **FCI-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eslammohammedd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Eslammohammedd&show_icons=true&theme=github&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Eslammohammedd&theme=radical&hide_border=true&background=0D1117" />
