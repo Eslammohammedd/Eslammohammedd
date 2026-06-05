@@ -91,7 +91,9 @@ Welcome to my digital workspace! I am an **AI & Data Science student** at **FCI-
 
 <br/>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslammohammedd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Programming Languages"  width="50%" />
+</div>
 
 ---
 
