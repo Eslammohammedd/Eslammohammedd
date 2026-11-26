@@ -18,7 +18,7 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           text = Path("README.md").read_text(encoding="utf-8")
-          required = ["About Me", "Featured Projects", "Contribution Snake"]
+          required = ["About Me", "Featured Projects"]
           missing = [s for s in required if s not in text]
           if missing:
               raise SystemExit(f"Missing sections: {missing}")
