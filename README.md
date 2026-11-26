@@ -116,6 +116,13 @@ Welcome to my digital workspace! I am an **AI & Data Science student** at **FCI-
   </a>
 </p>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Eslammohammedd/Eslammohammedd/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+</picture>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00599C&height=100&section=footer" alt="Footer Divider" width="100%" />
 </div>
