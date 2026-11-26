@@ -89,6 +89,19 @@ Welcome to my digital workspace! I am an **AI & Data Science student** at **FCI-
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Focus | Link |
+|---|---|---|
+| Medical Image Diagnosis System | Chest X-ray classification, Grad-CAM, AI reporting | [Repository](https://github.com/Eslammohammedd/Medical-Image-Diagnosis-System) |
+| Autonomous Perception Dashboard | YOLO tracking, traffic analytics, Streamlit dashboard | [Repository](https://github.com/Eslammohammedd/autonomous-perception-dashboard) |
+| Elevvo NLP Internship | Eight NLP tasks from sentiment analysis to resume screening | [Repository](https://github.com/Eslammohammedd/Elevvo-NLP-Internship) |
+| Codveda Data Science Internship | End-to-end ML pipelines across three difficulty levels | [Repository](https://github.com/Eslammohammedd/Codveda-Technologies-Data-Science-Intern) |
+| Instant AI MT-33-H | Colab notebooks and Python fundamentals exercises | [Repository](https://github.com/Eslammohammedd/Eslam-Mohammed-Instant-AI-MT-33-H-) |
+| OpenCode + Antigravity Workflow | Combo workflow, handoff contract, and verification harness | [Repository](https://github.com/Eslammohammedd/Eslammohammedd) |
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
