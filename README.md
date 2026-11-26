@@ -4,7 +4,7 @@
   <br/>
   
   <a href="https://github.com/Eslammohammedd">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Eslam!+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Computer+Vision+%26+NLP+Specialist;Deep+Learning+Enthusiast;Cybersecurity+Advocate" alt="Typing Animation: AI & Data Science Engineer" width="600" height="150" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Eslam!+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Computer+Vision+%26+NLP+Specialist;Deep+Learning+Enthusiast;Cybersecurity+Advocate" alt="Typing Animation: AI & Data Science Engineer" width="600" height="150" />
   </a>
 </div>
 
@@ -76,10 +76,11 @@ Welcome to my digital workspace! I am an **AI & Data Science student** at **FCI-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eslammohammedd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Eslammohammedd&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Eslammohammedd&theme=radical&hide_border=true&background=0D1117" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslammohammedd&theme=github&hide_border=true" alt="GitHub Streak" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Eslammohammedd&theme=radical&hide_border=true&background=0D1117" />
+    <img src="https://streak-stats.demolab.com/?user=Eslammohammedd&theme=github&hide_border=true" alt="GitHub Streak" width="48%" />
   </picture>
 </div>
 
@@ -98,7 +99,6 @@ Welcome to my digital workspace! I am an **AI & Data Science student** at **FCI-
 | Elevvo NLP Internship | Eight NLP tasks from sentiment analysis to resume screening | [Repository](https://github.com/Eslammohammedd/Elevvo-NLP-Internship) |
 | Codveda Data Science Internship | End-to-end ML pipelines across three difficulty levels | [Repository](https://github.com/Eslammohammedd/Codveda-Technologies-Data-Science-Intern) |
 | Instant AI MT-33-H | Colab notebooks and Python fundamentals exercises | [Repository](https://github.com/Eslammohammedd/Eslam-Mohammed-Instant-AI-MT-33-H-) |
-| OpenCode + Antigravity Workflow | Combo workflow, handoff contract, and verification harness | [Repository](https://github.com/Eslammohammedd/Eslammohammedd) |
 
 ---
 
